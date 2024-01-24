@@ -14,7 +14,7 @@
 <!-- Social Media Handles -->
   <h3 align="left" style="margin-top: 2rem; margin-bottom: 0.7rem;">Connect with me:</h3>
   <div div align="left" style="display: flex; flex-direction: row; justify-content: space-between; width: 13rem;">
-    <a href="https://www.linkedin.com/in/vasu-bhut/" target="_blank"  ><img alt="LinkedIn" src="https://img.icons8.com/?size=48&id=13930&format=png"/></a>
+    <a href="https://www.linkedin.com/in/vasubhut/" target="_blank"  ><img alt="LinkedIn" src="https://img.icons8.com/?size=48&id=13930&format=png"/></a>
     <a href="mailto:vasubhut157@gmail.com" target="_blank"  ><img alt="Gmail" src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png"/></a>
     <a href="https://www.instagram.com/vasubhut/" target="_blank"  ><img alt="Instagram" src="https://img.icons8.com/?size=48&id=Xy10Jcu1L2Su&format=png"/></a>
   </div>
@@ -50,7 +50,7 @@
   <!-- Hosting Platforms -->
   <h3 align="left" style="margin-top: 2rem; margin-bottom: 0.7rem;">Hosting :</h3>
   <div align="left" style="display: flex; flex-direction: row; justify-content: space-between; width: 30rem;">
-    <img alt="AWS" src="https://img.icons8.com/?size=48&id=33039&format=png" height="50px"/>
+    <img alt="AWS" src="https://img.icons8.com/?size=48&id=33039&format=png" height="50px" style="margin-right: 5px"/>
     <img alt="DigitalOcean" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" height="50px"/>
     <img alt="Heroku" src="https://img.icons8.com/?size=48&id=31085&format=png" height="50px"/>
     <img alt="Vercel" src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" height="50px"/>
