@@ -1,5 +1,5 @@
   <!-- Introduction -->
-  <h1 align="center">👋 Hello Linkedin Family, I'm Vasu Bhut
+  <h1 align="center"> Hello 👋, I'm Vasu Bhut
   <h3 align="center"> < A Software Developer /> </h3>
 
   <!-- Hero Sectiom -->
