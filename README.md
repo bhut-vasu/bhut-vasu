@@ -44,7 +44,7 @@
     <img alt="Java" src="https://img.icons8.com/?size=48&id=13679&format=png" height="60px"/>
     <img alt="TypeScript" src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png" height="60px"/> 
     <img alt="Python" src="https://img.icons8.com/?size=48&id=13441&format=png" height="60px"/>
-    <img alt="c++" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" height="60px"/>
+    <img alt="c++" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" height="60px"/>
   </div>
 
   <!-- Hosting Platforms -->
