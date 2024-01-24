@@ -49,7 +49,7 @@
 
   <!-- Hosting Platforms -->
   <h3 align="left" style="margin-top: 2rem; margin-bottom: 0.7rem;">Hosting :</h3>
-  <div align="left" style="display: flex; flex-direction: row; justify-content: space-between; width: 23rem;">
+  <div align="left" style="display: flex; flex-direction: row; justify-content: space-between; width: 24rem;">
     <img alt="AWS" src="https://img.icons8.com/?size=48&id=33039&format=png" height="50px"/>
     <img alt="DigitalOcean" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" height="50px"/>
     <img alt="Heroku" src="https://img.icons8.com/?size=48&id=31085&format=png" height="50px"/>
